@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{44C687BC-3EF4-4AEF-92C3-20038FA1E120}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BusRentalExercise.UnitTests/BusRentalManagerTests.cs">
+    <Files>
+      <File FileName="BusRentalExercise/BusRentalManager.cs" Line="8" Column="44" />
+      <File FileName="BusRentalExercise.UnitTests/BusRentalManagerTests.cs" Line="42" Column="13" />
+      <File FileName="BusRentalExercise.UnitTests/BusRentalFixture.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BusRentalExercise.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

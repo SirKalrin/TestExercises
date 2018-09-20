@@ -1,0 +1,17 @@
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/bin/Debug/netcoreapp2.1/BusRentalExercise.UnitTests.deps.json
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/bin/Debug/netcoreapp2.1/BusRentalExercise.UnitTests.runtimeconfig.json
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/bin/Debug/netcoreapp2.1/BusRentalExercise.UnitTests.runtimeconfig.dev.json
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/bin/Debug/netcoreapp2.1/BusRentalExercise.UnitTests.dll
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/bin/Debug/netcoreapp2.1/BusRentalExercise.UnitTests.pdb
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/bin/Debug/netcoreapp2.1/BusRentalExercise.dll
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/bin/Debug/netcoreapp2.1/BusRentalExercise.pdb
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/obj/Debug/netcoreapp2.1/BusRentalExercise.UnitTests.csprojAssemblyReference.cache
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/obj/Debug/netcoreapp2.1/BusRentalExercise.UnitTests.csproj.CoreCompileInputs.cache
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/obj/Debug/netcoreapp2.1/BusRentalExercise.UnitTests.AssemblyInfoInputs.cache
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/obj/Debug/netcoreapp2.1/BusRentalExercise.UnitTests.AssemblyInfo.cs
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/obj/Debug/netcoreapp2.1/BusRentalExercise.UnitTests.csproj.CopyComplete
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/obj/Debug/netcoreapp2.1/BusRentalExercise.UnitTests.dll
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise.UnitTests/obj/Debug/netcoreapp2.1/BusRentalExercise.UnitTests.pdb

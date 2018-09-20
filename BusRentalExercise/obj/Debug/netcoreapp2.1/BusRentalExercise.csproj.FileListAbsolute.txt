@@ -1,0 +1,8 @@
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise/bin/Debug/netcoreapp2.1/BusRentalExercise.deps.json
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise/bin/Debug/netcoreapp2.1/BusRentalExercise.dll
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise/bin/Debug/netcoreapp2.1/BusRentalExercise.pdb
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise/obj/Debug/netcoreapp2.1/BusRentalExercise.csproj.CoreCompileInputs.cache
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise/obj/Debug/netcoreapp2.1/BusRentalExercise.AssemblyInfoInputs.cache
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise/obj/Debug/netcoreapp2.1/BusRentalExercise.AssemblyInfo.cs
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise/obj/Debug/netcoreapp2.1/BusRentalExercise.dll
+/Users/mortenhansen/Projects/BusRentalExercise/BusRentalExercise/obj/Debug/netcoreapp2.1/BusRentalExercise.pdb
